@@ -1,7 +1,7 @@
 {
-  "name": "inventory-management-system-nodejs",
+  "name": "oladayo-enterprises",
   "version": "1.0.0",
-  "description": "Inventory management system using node js and mysql.",
+  "description": "store that rendered whole sale product from different",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {},

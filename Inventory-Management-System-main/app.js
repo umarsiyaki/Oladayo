@@ -4,6 +4,7 @@ var mysql = require('mysql')
 const fileUpload = require('express-fileupload');
 
 const uniqueString = require('unique-string');
+app.use("/", require("./routes/main"));
 
 var app = express()
 
@@ -40,9 +41,9 @@ app.use(express.static('static'))
 //database creation
 const connection=mysql.createConnection({
   host:'localhost',
-  user:'root',
-  password:'sourabh',
-  database:'inventory'
+  user:'oladay',
+  password:'oladayo01',
+  database:'oladayo-enterprises'
 });
 connection.connect(function(err) {
   if (err) {
