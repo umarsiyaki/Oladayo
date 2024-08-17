@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack",
+    "react-native-tools.logLevel": "Debug",
+    "javascript.format.semicolons": "insert",
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.preferences.importModuleSpecifier": "project-relative",
+    "javascript.suggest.completeFunctionCalls": true,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
